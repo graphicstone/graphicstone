@@ -14,10 +14,6 @@
 
 - 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1Wq0hp1qiY5gYM-pCes0-TIX_apt3KC9k/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,6 +36,9 @@
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=graphicstone&show_icons=true&theme=radical&locale=en" alt="graphicstone" /></p>
+<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=graphicstone&show_icons=true&theme=radical&locale=en" alt="graphicstone" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=graphicstone&" alt="graphicstone" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=graphicstone&" alt="graphicstone" /></p>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
