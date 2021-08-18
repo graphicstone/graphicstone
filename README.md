@@ -41,7 +41,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Create your own Android Library and publish it using JitPack](https://blog.usejournal.com/create-your-own-android-library-and-publish-it-using-jitpack-72dee6675d54?source=rss-beac25d825e1------2)
+- [Create your own Android Library and publish it using JitPack](https://blog.heyday.xyz/create-your-own-android-library-and-publish-it-using-jitpack-72dee6675d54?source=rss-beac25d825e1------2)
 - [Backup of application data using allowedBackup in manifest](https://medium.com/@graphicstone/backup-of-application-data-using-allowedbackup-in-manifest-fecc7db37d8a?source=rss-beac25d825e1------2)
 - [Lottie library for animations in Android](https://medium.com/@graphicstone/lottie-library-for-animations-in-android-5059c4434e40?source=rss-beac25d825e1------2)
 <!-- BLOG-POST-LIST:END -->
