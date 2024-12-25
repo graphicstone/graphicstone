@@ -1,47 +1,97 @@
-<h1 align="center">Hi 👋, I'm Harishiv</h1>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=graphicstone&label=Profile%20views&color=0e75b6&style=flat" alt="graphicstone" /> </p>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harishiv%20Singh&fontSize=80&animation=fadeIn)
 
-- 🔭 I’m currently working on [PersonalLedger](https://github.com/graphicstone/PersonalLedger) and other pet projects.
+[![Portfolio](https://img.shields.io/badge/Portfolio-harishiv.vercel.app-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://harishiv.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harishiv-singh)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@graphicstone)
 
-- 🌱 I’m currently learning **Flutter and Kotlin Multiplatform Mobile (KMM)**
+</div>
 
-- 👯 I’m looking to collaborate on [PersonalLedger](https://github.com/graphicstone/PersonalLedger) and [UserInfoView](https://github.com/graphicstone/UserInfoView)
+## 👨‍💻 About Me
 
-- 📝 I write articles on [Medium](https://medium.com/@graphicstone)
+Senior Frontend Engineer specializing in web and mobile development. Passionate about building scalable applications and contributing to open-source projects.
 
-- 📫 Reach me: **harishiv8@gmail.com**
+```typescript
+const harishiv = {
+    expertise: {
+        web: ["React", "Redux", "Next.js", "JavaScript", "TypeScript"],
+        mobile: ["Flutter", "Android", "Kotlin", "BLoC"],
+        backend: ["Node.js", "Firebase", "RESTful APIs"],
+        testing: ["Jest", "Playwright"],
+        devOps: ["Git", "CI/CD", "App Engine"]
+    },
+    interests: [
+        "Cross-Platform Development",
+        "UI/UX Design",
+        "Performance Optimization",
+        "Open Source"
+    ]
+};
+```
+## 🛠️ Tech Stack
 
-- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1Wq0hp1qiY5gYM-pCes0-TIX_apt3KC9k/view?usp=sharing)
+<div align="center">
 
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/graphicstone"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://linkedin.com/in/harishiv-singh"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/7810174"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-<a href="https://medium.com/@graphicstone"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p><br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp; 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp; 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp; 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp; 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-</p>
+</div>
 
-<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=graphicstone&show_icons=true&theme=radical&locale=en" alt="graphicstone" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=graphicstone&" alt="graphicstone" /></p><br>
+## 📊 GitHub Stats
 
-### Blogs posts
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graphicstone&theme=tokyonight" />
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphicstone&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=graphicstone&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 📌 Open Source Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Personal Ledger</h3>
+      <p align="center">
+        A cross-platform finance management application built with Flutter and Firebase. Features include expense tracking, budget planning, and financial analytics.
+      </p>
+      <p align="center">
+        <a href="https://github.com/graphicstone/PersonalLedger">
+          <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">UserInfoView</h3>
+      <p align="center">
+        A customizable Android UI component library that helps create beautiful user information cards with support for titles, subtitles, tags, and images.
+      </p>
+      <p align="center">
+        <a href="https://github.com/graphicstone/UserInfoView">
+          <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Create your own Android Library and publish it using JitPack](https://medium.com/@graphicstone/create-your-own-android-library-and-publish-it-using-jitpack-72dee6675d54?source=rss-beac25d825e1------2)
-- [Backup of application data using allowedBackup in manifest](https://medium.com/@graphicstone/backup-of-application-data-using-allowedbackup-in-manifest-fecc7db37d8a?source=rss-beac25d825e1------2)
-- [Lottie library for animations in Android](https://medium.com/@graphicstone/lottie-library-for-animations-in-android-5059c4434e40?source=rss-beac25d825e1------2)
+- [Create your own Android Library with JitPack](https://medium.com/@graphicstone/create-your-own-android-library-and-publish-it-using-jitpack-72dee6675d54)
+- [Android Data Backup Implementation](https://medium.com/@graphicstone/backup-of-application-data-using-allowedbackup-in-manifest-fecc7db37d8a)
+- [Lottie Animations in Android](https://medium.com/@graphicstone/lottie-library-for-animations-in-android-5059c4434e40)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
