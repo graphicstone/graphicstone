@@ -59,12 +59,12 @@ const harishiv = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Personal Ledger</h3>
+      <h3 align="center">Transformer.js Playground</h3>
       <p align="center">
-        A cross-platform finance management application built with Flutter and Firebase. Features include expense tracking, budget planning, and financial analytics.
+        A browser-based application that leverages the power of machine learning models using Transformer.js. Explore a variety of text and image processing models directly in your browser, all running client-side without the need for a server.
       </p>
       <p align="center">
-        <a href="https://github.com/graphicstone/PersonalLedger">
+        <a href="https://github.com/graphicstone/transformer-js-playground">
           <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github">
         </a>
       </p>
